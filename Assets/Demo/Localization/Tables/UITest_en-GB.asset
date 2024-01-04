@@ -1,0 +1,281 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UITest_en-GB
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-GB
+  m_SharedData: {fileID: 11400000, guid: 7cdb7d5e84074634c8da0d0515faaf66, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11987192320958464
+    m_Localized: Welcome, please choose a language to use
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11987213275701248
+    m_Localized: I'm your assistant and I will guide you all along the setup of your
+      Lynx headset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11987217478393856
+    m_Localized: Let's start off with a few tips
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522447489736704
+    m_Localized: Place the headset horizontally, to align the lenses with your eyes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522452267048960
+    m_Localized: Move the lenses from left to right, until you obtain the clearest
+      vision possible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522456180334592
+    m_Localized: If you wear glasses, go ahead and press this button to move the
+      headset further away from your eyes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522464090791936
+    m_Localized: With the rear tightening wheel, make sure to adjust the headband
+      for optimal comfort and support
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522704881590272
+    m_Localized: The headset is equipped with two removable magnetic and washable
+      foams
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522694370664448
+    m_Localized: They can be removed if the need cleaning, or simply if the headset
+      feels a little too tight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522686535704576
+    m_Localized: Congratulations, your headset is now correctly adjusted!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522649030238208
+    m_Localized: We will now go over the different features of your headset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779091444375552
+    m_Localized: This is the volume button, to adjust the sound of the headset's
+      over-ear speakers or your earphones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779103133900800
+    m_Localized: You can connect your headphones through the headphone jack located
+      here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779116052357120
+    m_Localized: This button here is customizable and its usage will depend on the
+      app that is running
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779118187257856
+    m_Localized: This button opens the Lynx menu with a single click, recenters the
+      view with a double click and takes a picture with a long click
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779120376684544
+    m_Localized: A simple press of this button will put your device in sleep mode,
+      while a prolonged press will shut down your Lynx headset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779122662580224
+    m_Localized: A microSD card can be inserted here to increase your device's storage
+      capacity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779124747149312
+    m_Localized: Congrats! You now know your headset perfectly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804287102459904
+    m_Localized: I will now explain how the hand tracking works
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804290269159424
+    m_Localized: Place your hands in front of you as such, in order for your headset
+      to detect them properly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804293763014656
+    m_Localized: A few gestures will enable you to interact with your environment,
+      let's explore the most important ones together
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804295780474880
+    m_Localized: 'The pinch gesture, closing your thumb an index together in a pinching
+      motion, can be used to move around or stretch an object for example. Give it
+      a try in front of you '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804297785352192
+    m_Localized: You can orient the palm of your hand in a specific direction. Try
+      orienting your palm towards me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804301577003008
+    m_Localized: If you close your fingers around a virtual object, you can use your
+      fingers in a "grabbing" motion. Give it a try with this cube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807682714509312
+    m_Localized: Try keeping your finger on this press button for a few seconds to
+      fill the gauge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807684224458752
+    m_Localized: Now here's a slider gauge, place your index on the cursor and slide
+      it along the gauge to set a value
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14808017482883072
+    m_Localized: Place your index on this scroll view and move it back and forth
+      to scroll through the content
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14808020213374976
+    m_Localized: Congratulations, you are ready to interact with virtual objects!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804299714732032
+    m_Localized: You can also raise some fingers in order to point or perhaps confirm
+      a selection for example. Try raising your thumb at me in approval
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804303380553728
+    m_Localized: Bravo! These few gestures will enable you to interact with most
+      applications.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807675064098816
+    m_Localized: Here's an example of a touch interface
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807677245136896
+    m_Localized: Here's an example of a touch interface, you already know this type
+      of button, give it a press to engage it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807679069659136
+    m_Localized: Here you have a toggle button, press on it to toggle on, then once
+      more to toggle off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807680923541504
+    m_Localized: Here's a switch button, try switching it on and off by pressing
+      on it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40900988032589824
+    m_Localized: Hover each buttons with your hand to discover their functions. Holding
+      down the Home button to end the tutorials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50417458143895552
+    m_Localized: In each application, you can access the Lynx menu by clicking on
+      the top right button, try it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50417467929206784
+    m_Localized: To end the tutorials, exit the application with the menu, by holding
+      down the Quit button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50417493153751040
+    m_Localized: We are now finished! Press this button to return to the launcher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85202745688399872
+    m_Localized: Headset position
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85202389675876352
+    m_Localized: Onboarding Tutorials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85202775308574720
+    m_Localized: Headset buttons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85202818182750208
+    m_Localized: Hand gesture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85202837778538496
+    m_Localized: Hand interfaces
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85484399489261568
+    m_Localized: '
+
+      Scroll down to complete the task
+
+      ...
+
+      ...
+
+      ...
+
+      ...
+
+      ...
+
+      ...
+
+      ...
+
+      ...
+
+      ...
+
+      ...
+
+      ...
+
+      ...
+
+      Congratulation!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95278013564133376
+    m_Localized: Exit Tutorials
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121072459228454912
+    m_Localized: Press to quit the current application
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121072463401787392
+    m_Localized: Press to close the Lynx Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121072466790785024
+    m_Localized: Press to start or stop a video recording, accessible inthe Lynx
+      Home media tab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121072468099407872
+    m_Localized: Press to take a screenshot, accessible in the Lynx Home media tab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126054701356883968
+    m_Localized: Press to open the ground configuration window
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

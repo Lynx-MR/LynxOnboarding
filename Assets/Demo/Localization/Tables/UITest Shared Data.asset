@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UITest Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UITest
+  m_TableCollectionNameGuidString: 7cdb7d5e84074634c8da0d0515faaf66
+  m_Entries:
+  - m_Id: 11987192320958464
+    m_Key: P1 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11987213275701248
+    m_Key: P2 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11987217478393856
+    m_Key: P2 02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522447489736704
+    m_Key: P2 03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522452267048960
+    m_Key: P2 04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522456180334592
+    m_Key: P2 05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522464090791936
+    m_Key: P2 06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522704881590272
+    m_Key: P2 07
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522694370664448
+    m_Key: P2 08
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522686535704576
+    m_Key: P2 09
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522649030238208
+    m_Key: P3 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779091444375552
+    m_Key: P3 02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779103133900800
+    m_Key: P3 03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779116052357120
+    m_Key: P3 04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779118187257856
+    m_Key: P3 05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779120376684544
+    m_Key: P3 06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779122662580224
+    m_Key: P3 07
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779124747149312
+    m_Key: P3 08
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804287102459904
+    m_Key: P4 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804290269159424
+    m_Key: P4 02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804293763014656
+    m_Key: P4 03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804295780474880
+    m_Key: P4 04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804297785352192
+    m_Key: P4 05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804299714732032
+    m_Key: P4 06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804301577003008
+    m_Key: P4 07
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804303380553728
+    m_Key: P4 08
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807675064098816
+    m_Key: P5 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807677245136896
+    m_Key: P5 02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807679069659136
+    m_Key: P5 03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807680923541504
+    m_Key: P5 04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807682714509312
+    m_Key: P5 05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807684224458752
+    m_Key: P5 06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14808017482883072
+    m_Key: P5 07
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14808020213374976
+    m_Key: P5 08
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40900988032589824
+    m_Key: P6 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50417458143895552
+    m_Key: P6 02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50417467929206784
+    m_Key: P6 03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50417493153751040
+    m_Key: P7 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85202389675876352
+    m_Key: M0 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85202745688399872
+    m_Key: M0 02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85202775308574720
+    m_Key: M0 03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85202818182750208
+    m_Key: M0 04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85202837778538496
+    m_Key: M0 05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85484399489261568
+    m_Key: Scroll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95278013564133376
+    m_Key: M3 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121072459228454912
+    m_Key: TT 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121072463401787392
+    m_Key: TT 02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121072466790785024
+    m_Key: TT 03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121072468099407872
+    m_Key: TT 04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126054701356883968
+    m_Key: TT 05
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1654775246703

@@ -1,0 +1,260 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UITest_fr-FR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-FR
+  m_SharedData: {fileID: 11400000, guid: 7cdb7d5e84074634c8da0d0515faaf66, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11987217478393856
+    m_Localized: Nous allons commencer par quelques conseils
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11987213275701248
+    m_Localized: Je suis votre assistant et je vous guiderai tout au long de votre
+      familiarisation avec votre casque Lynx
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11987192320958464
+    m_Localized: Bienvenue, merci de choisir votre langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522447489736704
+    m_Localized: "Placez le casque \xE0 l'horizontal, pour aligner les lentilles
+      avec vos yeux"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522452267048960
+    m_Localized: "D\xE9placez les lentilles de droite \xE0 gauche \xE0 l'aide de
+      vos doigts, jusqu'\xE0 obtenir la vision la plus nette possible"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522456180334592
+    m_Localized: Si vous portez des lunettes, il vous suffit d'avancer le masque
+      en appuyant sur ce bouton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522464090791936
+    m_Localized: "Assurez-vous de serrer le casque avec la molette arri\xE8re, afin
+      qu'il reste bien en place"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522704881590272
+    m_Localized: "Le casque est \xE9quip\xE9 de deux mousses aimant\xE9es et lavables
+      pouvant \xEAtre retir\xE9es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522694370664448
+    m_Localized: "Vous pouvez les retirer pour les laver, mais \xE9galement si vous
+      vous sentez un peu trop \xE0 l'\xE9troit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522686535704576
+    m_Localized: "F\xE9licitations, votre casque est maintenant correctement ajust\xE9
+      !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14522649030238208
+    m_Localized: Nous allons maintenant passer en revue votre casque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779091444375552
+    m_Localized: "Ce bouton permet d'augmenter ou de diminuer le volume des haut-parleurs
+      ou de vos \xE9couteurs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779103133900800
+    m_Localized: "Vous pouvez connecter vos \xE9couteurs sur le port Jack situ\xE9
+      ici"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779116052357120
+    m_Localized: "Ce bouton est param\xE9trable et son utilisation d\xE9pendra de
+      l'application en cours"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779118187257856
+    m_Localized: "Ce bouton permet d'ouvrir le menu Lynx d'un simple clic, de recentrer
+      la vue avec un double clic et de prendre une photo avec un clic prolong\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779120376684544
+    m_Localized: "Ce bouton permet d'\xE9teindre l'\xE9cran d'une simple pression
+      et d'\xE9teindre votre casque avec une pression prolong\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779122662580224
+    m_Localized: "Si vous souhaitez augmenter la capacit\xE9 de stockage du casque,
+      vous pouvez ins\xE9rer une carte microSD ici"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14779124747149312
+    m_Localized: "F\xE9licitations, vous connaissez maintenant parfaitement votre
+      casque"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804287102459904
+    m_Localized: Je vais maintenant vous expliquer comment fonctionne le suivi des
+      mains
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804290269159424
+    m_Localized: "Vous devez placer vos mains face \xE0 vous, comme ceci, afin qu'elles
+      soient d\xE9tect\xE9es par votre casque"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804293763014656
+    m_Localized: "Plusieurs gestes permettent d'interagir avec l'environnement, d\xE9couvrons
+      ensemble les plus r\xE9pandus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804295780474880
+    m_Localized: "Ce geste de pincement avec pouce l'index peut \xEAtre utilis\xE9
+      pour d\xE9placer ou \xE9tirer un objet par exemple. Faites le geste en face
+      de vous"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804299714732032
+    m_Localized: Vous pouvez lever certains doigts pour pointer ou valider une action
+      par exemple. Faites-moi un signe avec le pouce vers le haut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804303380553728
+    m_Localized: Bravo ! Ces quelques gestes vous permettront d'interagir avec les
+      applications
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807675064098816
+    m_Localized: Voici un exemple d'interface tactile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807677245136896
+    m_Localized: "Voici un exemple d'interface tactile, vous connaissez d\xE9j\xE0
+      les boutons classiques comme celui-ci, appuyez dessus pour l'enclencher"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807679069659136
+    m_Localized: "Voici un bouton \xE0 \xE9tat, appuyez dessus pour l'enclencher,
+      puis une seconde fois pour le d\xE9sactiver"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807680923541504
+    m_Localized: "Voici un bouton \xE0 bascule, appuyez une premi\xE8re fois dessus
+      pour l'activer et une seconde fois pour le d\xE9sactiver"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804301577003008
+    m_Localized: "Vous pouvez \xE9galement attraper des objets en refermant vos doigts
+      dessus, comme ceci. Essayez donc avec ce cube"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14804297785352192
+    m_Localized: "Vous pouvez orienter la paume de votre main dans une direction
+      pr\xE9cise. Essayez d'orienter votre paume vers moi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807682714509312
+    m_Localized: "Voici un bouton \xE0 pression, pour l'activer, appuyez suffisament
+      longtemps pour remplir la jauge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14807684224458752
+    m_Localized: "Voici une jauge, posez votre index sur le curseur et d\xE9placez-le
+      long de la jauge pour d\xE9finir une valeur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14808017482883072
+    m_Localized: "Voici une vue d\xE9filable, posez votre index sur le texte et r\xE9alisez
+      un mouvement de bas en haut pour faire d\xE9filer le contenu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14808020213374976
+    m_Localized: "F\xE9licitations ! Vous savez maintenant int\xE9ragir avec les
+      \xE9l\xE9ments virtuels"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40900988032589824
+    m_Localized: "Survolez les boutons avec votre main pour d\xE9couvrir leurs fonctions.
+      Maintenez enfonc\xE9 le bouton Home pour terminer les tutoriels."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50417493153751040
+    m_Localized: "Nous avons termin\xE9 ! Appuyez sur ce bouton pour rejoindre l'accueil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50417458143895552
+    m_Localized: "Dans chaque application, vous pourrez acc\xE9der au menu Lynx en
+      cliquant sur le bouton sup\xE9rieur droit, essayez"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50417467929206784
+    m_Localized: "Pour terminer les tutoriels, quittez l'application via le menu,
+      en maintenant enfonc\xE9 le bouton Quit"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85202389675876352
+    m_Localized: Tutoriels de familiarisation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85202745688399872
+    m_Localized: Position du casque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85202775308574720
+    m_Localized: Boutons du casque
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85202818182750208
+    m_Localized: "Gestes r\xE9pandus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85202837778538496
+    m_Localized: Interfaces tactiles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85484399489261568
+    m_Localized: "\nFaites d\xE9filer le texte pour terminer cette \xE9tape\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\n...\nF\xE9licitations
+      !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95278013564133376
+    m_Localized: Quitter le Tutoriel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121072459228454912
+    m_Localized: Permet de quitter l'application en cours
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121072463401787392
+    m_Localized: Permet de fermer le menu Lynx
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121072466790785024
+    m_Localized: "Permet de d\xE9marrer ou arr\xEAter une vid\xE9o, accessible dans
+      l'onglet media du Lynx Home"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121072468099407872
+    m_Localized: "Permet de r\xE9aliser une capture d'\xE9cran, accessible dans l'onglet
+      media du Lynx Home"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126054701356883968
+    m_Localized: "Appuyez pour ouvrir la fen\xEAtre de configuration du sol"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
