@@ -9,15 +9,13 @@ This application is launched the first time the headset is switched on. It consi
 
 ## Tutorials
 
-0- Terms Of Services
-0- Language selection
-
-1- Headset positioning
-2- Headset buttons
-3- Handtracking gestures
-4- Handtracking interfaces
-
-5- Lynx Menu & Exit
+- (0) Terms Of Services
+- (0) Language selection
+- (1) Headset positioning
+- (2) Headset buttons
+- (3) Handtracking gestures
+- (4) Handtracking interfaces
+- (5) Lynx Menu & Exit.
 
 ## Project architecture
 
