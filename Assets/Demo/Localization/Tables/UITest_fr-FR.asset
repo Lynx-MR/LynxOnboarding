@@ -255,6 +255,14 @@ MonoBehaviour:
     m_Localized: "Appuyez pour ouvrir la fen\xEAtre de configuration du sol"
     m_Metadata:
       m_Items: []
+  - m_Id: 209483712455581696
+    m_Localized: Suivant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209483759691833344
+    m_Localized: "Pr\xE9c\xE9dent"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
