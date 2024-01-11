@@ -276,6 +276,14 @@ MonoBehaviour:
     m_Localized: Press to open the ground configuration window
     m_Metadata:
       m_Items: []
+  - m_Id: 209483712455581696
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209483759691833344
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -6247,7 +6247,7 @@ MonoBehaviour:
   originLocalOffset: {x: 0, y: 0, z: 0}
   originDistThreshold: 0
   originLerpTime: 0
-  targetDistance: 0.5
+  targetDistance: 0.4
   targetDistanceThreshold: 0.2
   targetDistanceLerpTime: 0.2
   targetAngle: 0

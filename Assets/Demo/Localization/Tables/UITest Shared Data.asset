@@ -215,13 +215,22 @@ MonoBehaviour:
     m_Key: TT 05
     m_Metadata:
       m_Items: []
+  - m_Id: 209483712455581696
+    m_Key: LM 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209483759691833344
+    m_Key: LM 02
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
-    id: 0
+    rid: 0
   references:
-    version: 1
-    00000000:
+    version: 2
+    RefIds:
+    - rid: 0
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
         m_CustomEpoch: 1654775246703
