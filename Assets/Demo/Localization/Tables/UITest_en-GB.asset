@@ -181,8 +181,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 40900988032589824
-    m_Localized: Hover each buttons with your hand to discover their functions. Holding
-      down the Home button to end the tutorials.
+    m_Localized: Press the Home button to end the tutorials.
     m_Metadata:
       m_Items: []
   - m_Id: 50417458143895552

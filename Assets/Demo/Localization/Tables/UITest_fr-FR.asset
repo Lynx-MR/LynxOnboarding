@@ -186,8 +186,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 40900988032589824
-    m_Localized: "Survolez les boutons avec votre main pour d\xE9couvrir leurs fonctions.
-      Maintenez enfonc\xE9 le bouton Home pour terminer les tutoriels."
+    m_Localized: Appuyez sur le bouton Home pour terminer les tutoriels.
     m_Metadata:
       m_Items: []
   - m_Id: 50417493153751040
