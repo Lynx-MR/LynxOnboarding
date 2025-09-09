@@ -3,7 +3,7 @@ using UnityEngine;
 public class OnboardingProperty : MonoBehaviour
 {
     /// <summary>
-    /// Lit une propriété système Android.
+    /// Call this function to get an android property.
     /// </summary>
     public static string Get(string key, string defaultValue = "")
     {
@@ -18,7 +18,7 @@ public class OnboardingProperty : MonoBehaviour
     }
 
     /// <summary>
-    /// Écrit une propriété système Android.
+    /// Call this function to set an android property.
     /// </summary>
     public static void Set(string key, string value)
     {
@@ -30,6 +30,15 @@ public class OnboardingProperty : MonoBehaviour
         #endif
     }
 
+    /// <summary>
+    /// Call this function to set Onboarding as finished.
+    /// </summary>
+    public static void SetOnboardingAsFinished()
+    {
+        OnboardingProperty.Set("persist.lynx.onboarding.finished", "1");
+    }
+
+    /*
     // Start is called before the first frame update (Example)
     void Start()
     {
@@ -39,4 +48,5 @@ public class OnboardingProperty : MonoBehaviour
         // Modifier la valeur
         OnboardingProperty.Set("persist.lynx.onboarding.finished", "0");
     }
+    */
 }
