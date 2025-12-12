@@ -12,7 +12,7 @@ namespace Lynx.Onboarding
 {
     public class AutoSetupInteractionManager : MonoBehaviour
     {
-        [SerializeField] private XRGrabInteractable xRGrabInteractable = null;
+        [SerializeField] private UnityEngine.XR.Interaction.Toolkit.Interactables.XRGrabInteractable xRGrabInteractable = null;
 
         // Start is called before the first frame update
         void Start()

@@ -181,21 +181,23 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 40900988032589824
-    m_Localized: Press the Home button to end the tutorials.
+    m_Localized: Open the Lynx menu by pressing the top right button. Then press
+      the Home button to end the tutorials.
     m_Metadata:
       m_Items: []
   - m_Id: 50417458143895552
-    m_Localized: In each application, you can access the Lynx menu by clicking on
-      the top right button, try it
+    m_Localized: Open the Lynx menu by pressing the top right button. Then press
+      the Home button to end the tutorials.
     m_Metadata:
       m_Items: []
   - m_Id: 50417467929206784
-    m_Localized: To end the tutorials, exit the application with the menu, by holding
-      down the Quit button
+    m_Localized: Open the Lynx menu by pressing the top right button. Then press
+      the Home button to end the tutorials.
     m_Metadata:
       m_Items: []
   - m_Id: 50417493153751040
-    m_Localized: We are now finished! Press this button to return to the launcher
+    m_Localized: Open the Lynx menu by pressing the top right button. Then press
+      the Home button to end the tutorials.
     m_Metadata:
       m_Items: []
   - m_Id: 85202745688399872

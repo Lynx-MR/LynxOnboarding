@@ -62,6 +62,12 @@ namespace Lynx.Onboarding
             }
         }
 
+        private void Start()
+        {
+            InstantiateEnvironment();
+            StartCoroutine(InstantiateNonPersistentGameObject(languagePrefab, 0));
+        }
+
         #endregion
 
         #region PUBLIC METHODS
@@ -81,7 +87,7 @@ namespace Lynx.Onboarding
         public void InstantiateLanguageSelection()
         {
             // Move R1-Robot to the Language selection position.
-            robotPrefab.GetComponent<Animator>().SetTrigger("SelectLanguage");
+            robotPrefab.GetComponent<Animator>().SetTrigger("LanguageSelection");
 
             StartCoroutine(InstantiateNonPersistentGameObject(languagePrefab, 0));
         }
@@ -147,8 +153,11 @@ namespace Lynx.Onboarding
         /// <returns></returns>
         private IEnumerator InstantiateNonPersistentGameObject(GameObject prefab, float delay)
         {
-            GameObject.Destroy(currentPrefab);
-            yield return new WaitForSeconds(delay);
+            if(currentPrefab != null)
+            {
+                GameObject.Destroy(currentPrefab);
+                yield return new WaitForSeconds(delay);
+            }
             currentPrefab = GameObject.Instantiate(prefab);
         }
 

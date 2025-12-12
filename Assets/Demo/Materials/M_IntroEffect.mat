@@ -22,6 +22,8 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: M_IntroEffect
   m_Shader: {fileID: 4800000, guid: 20be12e1b0c92264cbb2b038a6480c5d, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -30,6 +32,7 @@ Material:
   m_CustomRenderQueue: 2000
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -119,7 +122,7 @@ Material:
     - _SideOpacity: 1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
-    - _Spawn: 1.0000855
+    - _Spawn: 1.0002768
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _StrippesIntensity: 0.034
@@ -135,3 +138,4 @@ Material:
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Tilling: {r: 60, g: 240, b: 0, a: 0}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
