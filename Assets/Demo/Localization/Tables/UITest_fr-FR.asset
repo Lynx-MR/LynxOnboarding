@@ -186,21 +186,23 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 40900988032589824
-    m_Localized: Appuyez sur le bouton Home pour terminer les tutoriels.
+    m_Localized: "Ouvrez le menu Lynx avec le bouton sup\xE9rieur droit. Puis appuyez
+      sur le bouton Home pour terminer le tutoriel."
     m_Metadata:
       m_Items: []
   - m_Id: 50417493153751040
-    m_Localized: "Nous avons termin\xE9 ! Appuyez sur ce bouton pour rejoindre l'accueil"
+    m_Localized: "Ouvrez le menu Lynx avec le bouton sup\xE9rieur droit. Puis appuyez
+      sur le bouton Home pour terminer le tutoriel."
     m_Metadata:
       m_Items: []
   - m_Id: 50417458143895552
-    m_Localized: "Dans chaque application, vous pourrez acc\xE9der au menu Lynx en
-      cliquant sur le bouton sup\xE9rieur droit, essayez"
+    m_Localized: "Ouvrez le menu Lynx avec le bouton sup\xE9rieur droit. Puis appuyez
+      sur le bouton Home pour terminer le tutoriel."
     m_Metadata:
       m_Items: []
   - m_Id: 50417467929206784
-    m_Localized: "Pour terminer les tutoriels, quittez l'application via le menu,
-      en maintenant enfonc\xE9 le bouton Quit"
+    m_Localized: "Ouvrez le menu Lynx avec le bouton sup\xE9rieur droit. Puis appuyez
+      sur le bouton Home pour terminer le tutoriel."
     m_Metadata:
       m_Items: []
   - m_Id: 85202389675876352

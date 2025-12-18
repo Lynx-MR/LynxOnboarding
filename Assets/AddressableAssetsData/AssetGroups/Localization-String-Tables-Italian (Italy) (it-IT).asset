@@ -13,8 +13,6 @@ MonoBehaviour:
   m_Name: Localization-String-Tables-Italian (Italy) (it-IT)
   m_EditorClassIdentifier: 
   m_GroupName: Localization-String-Tables-Italian (Italy) (it-IT)
-  m_Data:
-    m_SerializedData: []
   m_GUID: 0ccc2ae8139be234f81f0b7228971045
   m_SerializeEntries:
   - m_GUID: 4c3eae562d606bd47b5db2822aec6979
@@ -22,6 +20,7 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-it-IT
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 6b149d7ac66b9704098d4d06dd9988d5, type: 2}
   m_SchemaSet:

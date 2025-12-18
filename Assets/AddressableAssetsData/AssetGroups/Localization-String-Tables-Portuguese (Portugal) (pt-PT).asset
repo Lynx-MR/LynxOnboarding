@@ -13,8 +13,6 @@ MonoBehaviour:
   m_Name: Localization-String-Tables-Portuguese (Portugal) (pt-PT)
   m_EditorClassIdentifier: 
   m_GroupName: Localization-String-Tables-Portuguese (Portugal) (pt-PT)
-  m_Data:
-    m_SerializedData: []
   m_GUID: 6954e851991061e4b9d58b8df0621b19
   m_SerializeEntries:
   - m_GUID: c087aa64da728474faa71967459e2242
@@ -22,6 +20,7 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-pt-PT
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 6b149d7ac66b9704098d4d06dd9988d5, type: 2}
   m_SchemaSet:
