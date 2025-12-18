@@ -38,7 +38,11 @@ public class HomeOnboarding : MonoBehaviour
     /// </summary>
     public void SetOnboardingCompleted()
     {
+        OnboardingProperty.SetOnboardingAsFinished();
+
+        /*
         InitializeConfigFile();
         File.WriteAllText(OB_CONFIG_PATH, $"{OB_KEY}=true");
+        */
     }
 }
